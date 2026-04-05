@@ -1,2 +1,3 @@
-# elfakhari-ayoub
-x
+# Welcome to your Lovable project
+
+TODO: Document your project here
